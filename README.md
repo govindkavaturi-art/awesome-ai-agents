@@ -1062,6 +1062,31 @@ Coding
 
 </details>
 
+## [CueAPI](https://cueapi.ai)
+Execution accountability and scheduling infrastructure for AI agents
+
+<details>
+
+### Category
+Infrastructure / Tools
+
+### Description
+- CueAPI is an open source scheduling API that tracks whether AI agents succeeded or failed
+- Automatic retries with exponential backoff when delivery fails
+- Worker transport mode for agents without a public URL
+- Email and webhook alerts when all retries are exhausted
+- Six distinct outcome states: reported_success, reported_failure, verified_success, verification_pending, verification_failed, unknown
+- Self-hostable with Docker Compose
+
+### Links
+- [Website](https://cueapi.ai)
+- [GitHub](https://github.com/cueapi/cueapi-core)
+- [Documentation](https://docs.cueapi.ai)
+- [Python SDK](https://pypi.org/project/cueapi-sdk/)
+- [CLI](https://pypi.org/project/cueapi/)
+
+</details>
+
 ## [CrewAI](https://github.com/joaomdmoura/crewai)
 Framework for orchestrating role-playing agents
 <details>
