@@ -1062,7 +1062,7 @@ Coding
 
 </details>
 
-## [CueAPI](https://cueapi.ai)
+## [CueAPI](https://docs.cueapi.ai)
 Execution accountability and scheduling infrastructure for AI agents
 
 <details>
@@ -1079,7 +1079,7 @@ Infrastructure / Tools
 - Self-hostable with Docker Compose
 
 ### Links
-- [Website](https://cueapi.ai)
+- [Website](https://docs.cueapi.ai)
 - [GitHub](https://github.com/cueapi/cueapi-core)
 - [Documentation](https://docs.cueapi.ai)
 - [Python SDK](https://pypi.org/project/cueapi-sdk/)
